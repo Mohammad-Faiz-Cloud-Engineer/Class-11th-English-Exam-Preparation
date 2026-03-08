@@ -6,32 +6,30 @@
 
 ## What's Inside
 
-This repo contains **custom-written books by Mohammad Faiz** for Class 11th last-time exam preparation. 
+This repo contains **custom-written books by Mohammad Faiz** for Class 11th last-time exam preparation. Original content created specifically for English exam preparation.
 
-### Custom Books Available
+### Content
 
-- **English Literature** - Original book covering prose, poetry, drama summaries with important questions
-- **English Grammar** - Original book with grammar rules, exercises, and writing skills
-
-Both books created specifically for exam preparation.
+- **English Literature** - Custom written book covering prose, poetry, drama summaries with important questions
+- **English Grammar** - Custom written book with grammar rules, exercises, and writing skills
 
 ---
 
 ## How to Use
 
-1. Pick the book you need - Literature or Grammar
-2. Start with "Last Minute Revision" sections if exams are close
-3. Read through the custom books for detailed understanding
-4. Practice from solved examples and exercises
+1. Check the Literature folder for prose, poetry, and drama notes
+2. Check the Grammar folder for rules and practice exercises
+3. Use for quick revision before exams
+4. Focus on important questions highlighted in the books
 
 ---
 
 ## About the Books
 
-These are **original custom-written books by Mohammad Faiz**, not compiled from other sources. Created specifically for:
-- Quick revision when exams are near
-- Important questions that actually appear in exams
-- Last-time preparation that actually works
+These are **original custom-written books by Mohammad Faiz**, not copied from other sources. Created specifically for:
+- Last-time exam preparation
+- Scoring well in Class 11th English exams
+- Quick understanding of literature and grammar concepts
 
 ---
 
@@ -39,17 +37,19 @@ These are **original custom-written books by Mohammad Faiz**, not compiled from 
 
 This work is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.
 
-**You are free to:**
-- **Share** — copy and redistribute the material in any medium or format
-
-**Under the following terms:**
 - **Attribution** — You must give appropriate credit to Mohammad Faiz, provide a link to the license, and indicate if changes were made.
 - **NonCommercial** — You may not use the material for commercial purposes.
 - **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-Full license text: https://creativecommons.org/licenses/by-nc-nd/4.0/
+Copyright (c) 2026 Mohammad Faiz
+
+This repository and its contents are provided for educational and study purposes only.
+
+- **No Permission to Use:** No person or entity is permitted to use, copy, modify, merge, publish, distribute, sublicense, or sell any part of this content for any purpose (commercial or non-commercial).
+- **Personal Use Only:** Only the original author Mohammad Faiz has the authority to use this content in any project or application.
+- **Attribution:** If you discuss or reference the concepts in this repository, you must provide full credit to the original author Mohammad Faiz.
 
 ---
 
